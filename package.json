@@ -1,0 +1,21 @@
+{
+  "name": "backend-structure",
+  "version": "1.0.0",
+  "description": "Professional Folder Structure",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "js",
+    "backend",
+    "node"
+  ],
+  "author": "Moaz",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  }
+}
